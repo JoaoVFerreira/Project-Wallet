@@ -15,5 +15,30 @@ também implementar uma página de login super legal! :smile:</p>
 
 <img src="src/asset/TrybeWallet.gif">
 
-### Rode o comando em seu terminal 
-> git clone 
+## Instruções 
+
+> Rode o comando em seu terminal 
+
+```
+git clone git@github.com:JoaoVFerreira/Project-Wallet.git
+```
+
+> Entre na pasta do projeto 
+
+```
+cd Project-Wallet
+```
+
+> Instale as dependências
+
+```
+npm install
+```
+
+> Rode o comando npm start
+
+```
+npm start
+```
+
+### Obrigado e DIVIRTA-SE :tada:
