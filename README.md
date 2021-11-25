@@ -1,4 +1,4 @@
-# Seja bem vindo ao Project-Wallet!
+# Seja bem vindo ao Project-Wallet! 💵
 
 ## Descrição do Projeto
 > FRONT-END
